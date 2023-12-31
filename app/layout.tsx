@@ -10,8 +10,8 @@ const poppins = Poppins({
 })
 
 export const metadata: Metadata = {
-  title: 'VincyVibes',
-  description: 'VincyVibes is an event management  platform for event in St. Vincent and surroundings islands.',
+  title: 'VincyConnect',
+  description: 'VincyConnect is an event management  platform for event in St. Vincent and surroundings islands.',
   icons: {
     icon: '/assets/images/logo.svg',
   }

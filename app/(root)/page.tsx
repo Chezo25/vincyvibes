@@ -9,7 +9,7 @@ export default function Home() {
         <div className='wrapper grid-cols-1 grid gap-5 md:grid-cols-2 2xl:gap-0'>
           <div className='flex flex-col justify-center gap-8'>
             <h1 className='h1-bold'>
-              One People One Culture One Vibes: Your Events, Our Platform!!
+              One People One Culture One Vibes: Your Events, We Connect!!
             </h1>
             <p className='p-regular-20 md:p-regular-24'>
               Book and Unleashing Unforgettable Moments, One Event at a Time!"
